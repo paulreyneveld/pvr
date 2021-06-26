@@ -10,6 +10,7 @@ export default function Home() {
     </head>
 
     <div>
+    <h1 class="text-6xl font-permanent-marker">Paolo van Rijn</h1>
     <p>Home</p>
     </div>
     </>

@@ -4,7 +4,7 @@ module.exports = {
   theme: {
      extend: {
        fontFamily: {
-         'permanent-marker': ['Permanent Marker']
+         'permanent-marker': ['"Permanent Marker"']
        }
      },
   },
