@@ -1,4 +1,5 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import Layout from '../components/Layout';
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
     <div class="flex place-content-center my-10">
       <h1 class="text-6xl font-permanent-marker text-white">Paolo van Rijn</h1>
     </div>
+    <Layout />
     </body>
     </>
   )
