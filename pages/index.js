@@ -8,11 +8,11 @@ export default function Home() {
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin></link>
       <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"></link>
     </head>
-
-    <div>
-    <h1 class="text-6xl font-permanent-marker">Paolo van Rijn</h1>
-    <p>Home</p>
+    <body class="bg-black">
+    <div class="flex place-content-center">
+      <h1 class="text-6xl font-permanent-marker text-white">Paolo van Rijn</h1>
     </div>
+    </body>
     </>
   )
 }
