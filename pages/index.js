@@ -18,7 +18,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto">
-      <p className="text-white">{lorem}</p>
+      <p className="mr-8 ml-8 text-white">{lorem}</p>
     </div>
   )
 }
