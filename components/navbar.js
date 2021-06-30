@@ -9,7 +9,7 @@ const NavBar = () => {
         <Link href="/music">
             <a>Music</a>
         </Link>
-        <Link href="/">
+        <Link href="/merch">
             <a>Merch</a>
         </Link>
         </div>
