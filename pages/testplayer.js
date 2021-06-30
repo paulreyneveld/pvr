@@ -7,6 +7,7 @@ const TestPlayer = () => {
         player.current.src = '/public/dw37.mp3';
         player.play();
     }
+    
     return (
         <div className="songRow" onClick={() => playSong()}>
             <audio ref={player} />
