@@ -9,6 +9,9 @@ const NavBar = () => {
         <Link href="/music">
             <a>Music</a>
         </Link>
+        <Link href="/shows">
+            <a>Shows</a>
+        </Link>
         <Link href="/merch">
             <a>Merch</a>
         </Link>
